@@ -1,0 +1,207 @@
+#img1{
+    width: 100%;
+    height: auto;
+    padding: 2em;
+
+}
+
+.line{
+  background-color: black;
+  height: 2px;
+  margin-bottom: 0.001px;
+}
+
+
+
+
+ /* div.background{
+  background-image: url(../../assets/images/photo1.jpg);
+  background-size: 800px 800px;
+  
+} */
+
+/* div.transbox {
+  margin: 30px;
+  background-color: brown;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: white
+}  */
+
+/* .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } */
+
+  #img2{
+      border-radius: 5px 5px 5px 5px;
+      padding-left: 2em;
+
+  }
+  .card-img-top{
+      width: 100%;
+      height: auto;
+      border-radius: 5px 5px 5px 5px;
+      
+  }
+
+  .section1{
+    padding: 50px;
+   
+    text-align: center;
+    background-color: white;
+    color: black;
+  }
+
+  .ftrprd{
+      text-align: center;
+      
+
+  }
+
+  h4{
+    font-weight: bold;
+  }
+
+  h5{
+    font-weight: bold;
+  }
+
+  /* .prdlist{
+      margin-left: 2em;
+  } */
+
+  .rcp{
+      text-align: center;
+  }
+
+  .ftrimg{
+      height: 100%;
+      width: 100%;
+  }
+  .previous {
+    
+    color: black;
+  }
+  .next {
+   
+    color: black
+  }
+
+  div.container1 {
+    height: 10em;
+    display: flex;
+    align-items: center }
+
+    div.container1 a{
+        font-size: 50px;
+    }
+
+    div.container2 a{
+        font-size: 50px;
+    }
+
+    
+
+    div.container2 {
+        height: 10em;
+        display: flex;
+        align-items: center }
+
+        .rcp1{
+            background-color: #8b7355;
+            color: white;
+        
+        }
+
+        .card-body1{
+            background-color: #8b7355;
+            padding: 1em;
+            color: white;
+            position: relative;
+            bottom: 134px;
+            opacity: 0.8;
+            font-family: 'Oswald', sans-serif;
+          
+
+
+        }
+
+        .btnrcp{
+          border-radius:20px;
+        }
+
+        .photo1{
+            height: auto;
+            width: 100%;
+        }
+
+        .btn-outline{
+            color:white;
+            border-color: white;
+            
+        }
+
+        #subdiv{
+            color: white;
+        }
+
+        
+  input[type=email] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0; 
+    font-size: small;
+    background-color: transparent;
+    border:none;
+    border-bottom: 2px solid white;
+  }
+
+  input[type=email]:focus{
+    outline: none;
+    color: white;
+
+}
+
+  ::placeholder{
+      
+      opacity: 1;
+  }
+
+  #btn1{
+  
+    color:white;
+    font-size: small ;
+    background-color:tomato;
+
+    
+  }
+
+  @media only screen and (max-width: 600px) {
+    
+    .next{
+        position: relative;
+        bottom: 50px;
+     
+      
+        
+    }
+  
+ 
+    
+  }
+  
+  /* #grid4{
+    position: relative;
+    bottom: 127px;
+  }
+  */
+
+  

@@ -1,0 +1,70 @@
+.nav-link{
+    font-weight: bold;
+    
+    
+}
+.txt1{
+    position: relative;
+    top: 8px;
+
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+button{
+    float: left;
+    width: 20%;
+    padding: 5px;
+    background: none;
+    color: black;
+    font-size: 17px;
+    border: none;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+}
+
+
+
+
+
+nav.n1{
+    padding-left: 100px;
+    
+}
+
+nav.n2{
+    padding-left: 70px;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    
+    nav.n1{
+        padding-left: 10px;  
+    }
+    nav.n2{
+        padding-left: 10px;  
+    }
+  
+ 
+    
+  }
+
+ 
+ 
+    
+  
+
+.nav-item{
+    padding-left: 3em;
+}
+
+small{
+    color: black;
+}
+
+
+
